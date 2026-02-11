@@ -1,0 +1,15 @@
+{
+  "name": "minimal-farcaster-frame-auth",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "frog dev",
+    "build": "frog build"
+  },
+  "dependencies": {
+    "frog": "^0.15.0",
+    "hono": "^4.0.0",
+    "lucide-react": "^0.300.0",
+    "react": "^18.2.0"
+  }
+}
